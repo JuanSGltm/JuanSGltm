@@ -11,9 +11,9 @@ I am currently studying at Sampoerna University majoring in Computer Science.
 * 🧠  I'm learning Artificial Intelligence
 
 <a href="https://www.twitter.com/JuanSGultomm" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/JuanSGultomm?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+src="https://img.shields.io/twitter/follow/JuanSGultomm?logo=twitter&style=for-the-badge&color=ef4444&labelColor=22272e"
 /></a><a href="https://www.github.com/JuanSGltm" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JuanSGltm?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+src="https://img.shields.io/github/followers/JuanSGltm?logo=github&style=for-the-badge&color=ef4444&labelColor=22272e" /></a>
 
 ### Skills
 
@@ -35,13 +35,13 @@ src="https://img.shields.io/github/followers/JuanSGltm?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/JuanSGltm"><img src="https://github-readme-stats.vercel.app/api?username=JuanSGltm&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="JuanSGltm's GitHub stats" /></a>
+<a href="http://www.github.com/JuanSGltm"><img src="https://github-readme-stats.vercel.app/api?username=JuanSGltm&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="JuanSGltm's GitHub stats" /></a>
 
-<a href="http://www.github.com/JuanSGltm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSGltm&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/JuanSGltm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSGltm&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/JuanSGltm"><img src="https://activity-graph.herokuapp.com/graph?username=JuanSGltm&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/JuanSGltm"><img src="https://activity-graph.herokuapp.com/graph?username=JuanSGltm&bg_color=22272e&color=ffffff&line=ef4444&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/JuanSGltm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSGltm&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/JuanSGltm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSGltm&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
